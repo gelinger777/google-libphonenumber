@@ -26,6 +26,15 @@ Install the package via `npm`:
 npm install --save-prod google-libphonenumber
 ```
 
+If you are planning to use it via import , and not require method, please install also types 
+
+```sh
+ npm install @types/google-libphonenumber
+```
+
+
+
+
 ## Usage
 
 The following is a simple phone information extraction example similar to what can be viewed on the official demo page.
